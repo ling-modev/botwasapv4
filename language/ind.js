@@ -123,7 +123,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *XP* : ${getLevelingXp(sender)}/${reqXp} 
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
 ┣⊱ *User register* : ${_registered.length}
-┗━━━⊱  ⸨ *AFFIS* ⸩  ⊰━━━━┛
+┗━⊱  ⸨ *shinigami* ⸩  ⊰━━┛
 
  *${prefix}info*
  *${prefix}donasi*
@@ -215,6 +215,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}setppbot*
 ┣━━⊱ *THANGKS TO* ⊰━━┫
 ┃
+┣⊱ *Ling-M0* <editor>
 ┣⊱ *AFFIS JUNIANTO* <dev>
 ┣⊱ *FADHIL GRAPHY* <partner>
 ┣⊱ *MHANKBARBARS* <sc ori>
@@ -223,7 +224,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ NOTE : TQTO DI HAPUS
 ┃ GW GAK UP LAGI OKE
 ┃
-┗━━⊱  ⸨ *X-BOT* ⸩  ⊰━━━━┛
+┗━━⊱  ⸨ *shinigami* ⸩  ⊰━━━━┛
 `
 }
 
